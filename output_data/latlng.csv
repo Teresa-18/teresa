@@ -1,0 +1,507 @@
+MONTH,OFFENSE-DESC,OFFENSE-DESC
+APRIL,Drug Arrest,3264
+APRIL,TABC-Liquor Law Violation,2548
+APRIL,Larceny,1424
+APRIL,Obstruction of Justice,793
+APRIL,Family Violence,642
+APRIL,Panhandling,424
+APRIL,Weapon Violation,357
+APRIL,Trespassing,320
+APRIL,Traffic Violation,295
+APRIL,Assault,206
+APRIL,Aggravated Assault,196
+APRIL,Driving While Intoxicated,187
+APRIL,Prostitution,173
+APRIL,Vandalism,116
+APRIL,Fraud,107
+APRIL,Aggravated Family Violence,75
+APRIL,Threats,68
+APRIL,Theft of Vehicle,65
+APRIL,Deadly Conduct,59
+APRIL,Burglary Vehicle,58
+APRIL,Burglary Building,42
+APRIL,Burglary Habitation,40
+APRIL,Injury to a Child,35
+APRIL,Protective Order Violation,31
+APRIL,Unauthorized Use of Motor Vehicle,31
+APRIL,Aggravated Robbery Individual,30
+APRIL,Robbery Individual,26
+APRIL,Injury to Elderly Person,24
+APRIL,Robbery Business,17
+APRIL,Aggravated Robbery Business,14
+APRIL,Sexual Assault,13
+APRIL,Graffiti,12
+APRIL,Indecent Exposure,10
+APRIL,Kidnapping,10
+APRIL,Aggravated Sexual Assault,7
+APRIL,Indecency with a Child,7
+APRIL,Manslaughter,7
+APRIL,Murder,7
+APRIL,Arson,6
+APRIL,Intoxication Assault,3
+APRIL,Indecency/Obscenity,1
+APRIL,Stalking,1
+AUGUST,Drug Arrest,3233
+AUGUST,TABC-Liquor Law Violation,2521
+AUGUST,Larceny,1289
+AUGUST,Obstruction of Justice,781
+AUGUST,Family Violence,636
+AUGUST,Panhandling,425
+AUGUST,Trespassing,400
+AUGUST,Weapon Violation,314
+AUGUST,Traffic Violation,284
+AUGUST,Prostitution,243
+AUGUST,Assault,233
+AUGUST,Fraud,170
+AUGUST,Driving While Intoxicated,118
+AUGUST,Aggravated Assault,117
+AUGUST,Vandalism,104
+AUGUST,Theft of Vehicle,96
+AUGUST,Aggravated Family Violence,72
+AUGUST,Burglary Vehicle,66
+AUGUST,Unauthorized Use of Motor Vehicle,60
+AUGUST,Threats,53
+AUGUST,Protective Order Violation,44
+AUGUST,Deadly Conduct,42
+AUGUST,Burglary Habitation,36
+AUGUST,Aggravated Robbery Individual,30
+AUGUST,Injury to a Child,23
+AUGUST,Indecent Exposure,22
+AUGUST,Robbery Individual,22
+AUGUST,Robbery Business,20
+AUGUST,Burglary Building,17
+AUGUST,Injury to Elderly Person,13
+AUGUST,Arson,12
+AUGUST,Graffiti,11
+AUGUST,Aggravated Robbery Business,8
+AUGUST,Indecency with a Child,8
+AUGUST,Kidnapping,8
+AUGUST,Intoxication Assault,3
+AUGUST,Sexual Assault,3
+AUGUST,Manslaughter,1
+AUGUST,Stalking,1
+DECEMBER,Drug Arrest,3316
+DECEMBER,TABC-Liquor Law Violation,1922
+DECEMBER,Larceny,1501
+DECEMBER,Obstruction of Justice,697
+DECEMBER,Family Violence,645
+DECEMBER,Trespassing,302
+DECEMBER,Weapon Violation,296
+DECEMBER,Traffic Violation,281
+DECEMBER,Panhandling,263
+DECEMBER,Assault,216
+DECEMBER,Driving While Intoxicated,163
+DECEMBER,Fraud,158
+DECEMBER,Prostitution,121
+DECEMBER,Aggravated Assault,116
+DECEMBER,Vandalism,93
+DECEMBER,Aggravated Family Violence,81
+DECEMBER,Threats,61
+DECEMBER,Theft of Vehicle,60
+DECEMBER,Burglary Vehicle,44
+DECEMBER,Deadly Conduct,43
+DECEMBER,Protective Order Violation,43
+DECEMBER,Unauthorized Use of Motor Vehicle,40
+DECEMBER,Burglary Habitation,35
+DECEMBER,Injury to Elderly Person,20
+DECEMBER,Robbery Business,20
+DECEMBER,Indecent Exposure,16
+DECEMBER,Burglary Building,15
+DECEMBER,Injury to a Child,15
+DECEMBER,Aggravated Robbery Business,14
+DECEMBER,Aggravated Robbery Individual,13
+DECEMBER,Robbery Individual,8
+DECEMBER,Graffiti,7
+DECEMBER,Manslaughter,7
+DECEMBER,Sexual Assault,6
+DECEMBER,Intoxication Assault,5
+DECEMBER,Arson,4
+DECEMBER,Kidnapping,4
+DECEMBER,Indecency with a Child,2
+DECEMBER,Murder,2
+DECEMBER,Stalking,2
+DECEMBER,Aggravated Sexual Assault,1
+DECEMBER,Sex Offender Violation,1
+FEBRUARY,Drug Arrest,3021
+FEBRUARY,TABC-Liquor Law Violation,1967
+FEBRUARY,Larceny,1235
+FEBRUARY,Obstruction of Justice,674
+FEBRUARY,Family Violence,578
+FEBRUARY,Panhandling,476
+FEBRUARY,Trespassing,311
+FEBRUARY,Traffic Violation,255
+FEBRUARY,Weapon Violation,239
+FEBRUARY,Assault,206
+FEBRUARY,Prostitution,193
+FEBRUARY,Driving While Intoxicated,170
+FEBRUARY,Aggravated Assault,109
+FEBRUARY,Vandalism,104
+FEBRUARY,Fraud,92
+FEBRUARY,Aggravated Family Violence,64
+FEBRUARY,Theft of Vehicle,64
+FEBRUARY,Aggravated Robbery Individual,48
+FEBRUARY,Threats,48
+FEBRUARY,Deadly Conduct,47
+FEBRUARY,Burglary Vehicle,45
+FEBRUARY,Burglary Building,30
+FEBRUARY,Injury to a Child,30
+FEBRUARY,Protective Order Violation,30
+FEBRUARY,Injury to Elderly Person,21
+FEBRUARY,Robbery Business,21
+FEBRUARY,Burglary Habitation,19
+FEBRUARY,Robbery Individual,19
+FEBRUARY,Unauthorized Use of Motor Vehicle,18
+FEBRUARY,Indecent Exposure,15
+FEBRUARY,Graffiti,14
+FEBRUARY,Arson,9
+FEBRUARY,VICE Violation,9
+FEBRUARY,Aggravated Robbery Business,8
+FEBRUARY,Kidnapping,7
+FEBRUARY,Sexual Assault,7
+FEBRUARY,Murder,6
+FEBRUARY,Indecency/Obscenity,5
+FEBRUARY,Manslaughter,4
+FEBRUARY,Indecency with a Child,3
+FEBRUARY,Aggravated Sexual Assault,2
+FEBRUARY,Intoxication Assault,1
+FEBRUARY,Sex Offender Violation,1
+FEBRUARY,Stalking,1
+JANUARY,Drug Arrest,3159
+JANUARY,TABC-Liquor Law Violation,2053
+JANUARY,Larceny,1537
+JANUARY,Family Violence,650
+JANUARY,Obstruction of Justice,625
+JANUARY,Panhandling,565
+JANUARY,Weapon Violation,332
+JANUARY,Trespassing,305
+JANUARY,Traffic Violation,294
+JANUARY,Prostitution,203
+JANUARY,Assault,186
+JANUARY,Driving While Intoxicated,142
+JANUARY,Fraud,134
+JANUARY,Vandalism,98
+JANUARY,Theft of Vehicle,83
+JANUARY,Aggravated Assault,78
+JANUARY,Aggravated Family Violence,75
+JANUARY,Burglary Vehicle,46
+JANUARY,Deadly Conduct,44
+JANUARY,Burglary Habitation,40
+JANUARY,Aggravated Robbery Individual,37
+JANUARY,Threats,37
+JANUARY,Unauthorized Use of Motor Vehicle,29
+JANUARY,Protective Order Violation,27
+JANUARY,Injury to a Child,24
+JANUARY,Burglary Building,20
+JANUARY,Injury to Elderly Person,20
+JANUARY,Robbery Individual,20
+JANUARY,Aggravated Robbery Business,15
+JANUARY,Sexual Assault,12
+JANUARY,Robbery Business,9
+JANUARY,Kidnapping,6
+JANUARY,Graffiti,5
+JANUARY,Indecent Exposure,5
+JANUARY,Aggravated Sexual Assault,4
+JANUARY,Arson,3
+JANUARY,Murder,3
+JANUARY,Indecency with a Child,2
+JANUARY,Intoxication Assault,2
+JANUARY,Indecency/Obscenity,1
+JANUARY,Sex Offender Violation,1
+JULY,Drug Arrest,3224
+JULY,TABC-Liquor Law Violation,2844
+JULY,Larceny,1332
+JULY,Obstruction of Justice,918
+JULY,Family Violence,716
+JULY,Panhandling,463
+JULY,Trespassing,412
+JULY,Weapon Violation,368
+JULY,Traffic Violation,319
+JULY,Prostitution,261
+JULY,Assault,188
+JULY,Driving While Intoxicated,179
+JULY,Vandalism,136
+JULY,Fraud,111
+JULY,Aggravated Assault,92
+JULY,Aggravated Family Violence,85
+JULY,Burglary Vehicle,77
+JULY,Threats,72
+JULY,Deadly Conduct,65
+JULY,Theft of Vehicle,61
+JULY,Aggravated Robbery Individual,44
+JULY,Unauthorized Use of Motor Vehicle,43
+JULY,Burglary Habitation,27
+JULY,Injury to a Child,27
+JULY,Robbery Business,27
+JULY,Protective Order Violation,26
+JULY,Injury to Elderly Person,24
+JULY,Indecent Exposure,22
+JULY,Burglary Building,16
+JULY,Sexual Assault,15
+JULY,Aggravated Robbery Business,14
+JULY,Robbery Individual,9
+JULY,Graffiti,5
+JULY,Kidnapping,5
+JULY,Aggravated Sexual Assault,4
+JULY,Murder,4
+JULY,Arson,3
+JULY,Intoxication Assault,3
+JULY,Capital Murder,2
+JULY,Indecency with a Child,2
+JULY,Indecency/Obscenity,2
+JULY,Manslaughter,2
+JUNE,Drug Arrest,3152
+JUNE,TABC-Liquor Law Violation,2588
+JUNE,Larceny,1444
+JUNE,Obstruction of Justice,761
+JUNE,Family Violence,666
+JUNE,Panhandling,491
+JUNE,Trespassing,375
+JUNE,Traffic Violation,292
+JUNE,Weapon Violation,288
+JUNE,Assault,214
+JUNE,Prostitution,207
+JUNE,Vandalism,143
+JUNE,Driving While Intoxicated,133
+JUNE,Fraud,112
+JUNE,Aggravated Assault,111
+JUNE,Burglary Vehicle,91
+JUNE,Aggravated Family Violence,82
+JUNE,Deadly Conduct,64
+JUNE,Threats,54
+JUNE,Theft of Vehicle,52
+JUNE,Unauthorized Use of Motor Vehicle,44
+JUNE,Aggravated Robbery Individual,35
+JUNE,Protective Order Violation,30
+JUNE,Robbery Business,30
+JUNE,Burglary Habitation,28
+JUNE,Burglary Building,26
+JUNE,Injury to Elderly Person,23
+JUNE,Indecent Exposure,22
+JUNE,Robbery Individual,22
+JUNE,Injury to a Child,21
+JUNE,VICE Violation,16
+JUNE,Sexual Assault,13
+JUNE,Kidnapping,11
+JUNE,Murder,7
+JUNE,Aggravated Robbery Business,6
+JUNE,Arson,6
+JUNE,Intoxication Assault,5
+JUNE,Stalking,5
+JUNE,Graffiti,4
+JUNE,Manslaughter,4
+JUNE,Aggravated Sexual Assault,3
+JUNE,Capital Murder,3
+JUNE,Indecency with a Child,1
+MARCH,Drug Arrest,3622
+MARCH,TABC-Liquor Law Violation,2310
+MARCH,Larceny,1339
+MARCH,Obstruction of Justice,689
+MARCH,Family Violence,682
+MARCH,Panhandling,485
+MARCH,Trespassing,339
+MARCH,Weapon Violation,333
+MARCH,Traffic Violation,299
+MARCH,Prostitution,267
+MARCH,Assault,185
+MARCH,Driving While Intoxicated,162
+MARCH,Fraud,149
+MARCH,Vandalism,114
+MARCH,Aggravated Assault,97
+MARCH,Theft of Vehicle,87
+MARCH,Aggravated Family Violence,71
+MARCH,Burglary Vehicle,55
+MARCH,Deadly Conduct,54
+MARCH,Threats,41
+MARCH,Injury to a Child,35
+MARCH,Protective Order Violation,35
+MARCH,Aggravated Robbery Individual,31
+MARCH,Unauthorized Use of Motor Vehicle,31
+MARCH,Burglary Building,30
+MARCH,Burglary Habitation,28
+MARCH,Injury to Elderly Person,25
+MARCH,Robbery Individual,21
+MARCH,Indecent Exposure,17
+MARCH,Robbery Business,16
+MARCH,Aggravated Robbery Business,14
+MARCH,Graffiti,14
+MARCH,Sexual Assault,12
+MARCH,Arson,8
+MARCH,Kidnapping,7
+MARCH,Manslaughter,4
+MARCH,Capital Murder,3
+MARCH,Sex Offender Violation,3
+MARCH,Aggravated Sexual Assault,2
+MARCH,Indecency with a Child,2
+MARCH,Intoxication Assault,2
+MARCH,Murder,2
+MARCH,Stalking,1
+MAY,Drug Arrest,3409
+MAY,TABC-Liquor Law Violation,2478
+MAY,Larceny,1438
+MAY,Obstruction of Justice,888
+MAY,Family Violence,700
+MAY,Panhandling,585
+MAY,Trespassing,336
+MAY,Weapon Violation,311
+MAY,Traffic Violation,292
+MAY,Assault,237
+MAY,Prostitution,213
+MAY,Driving While Intoxicated,140
+MAY,Vandalism,132
+MAY,Aggravated Assault,130
+MAY,Fraud,114
+MAY,Aggravated Robbery Individual,110
+MAY,Theft of Vehicle,79
+MAY,Aggravated Family Violence,78
+MAY,Burglary Vehicle,68
+MAY,Deadly Conduct,59
+MAY,Threats,56
+MAY,Burglary Habitation,42
+MAY,Burglary Building,40
+MAY,Unauthorized Use of Motor Vehicle,38
+MAY,Injury to a Child,34
+MAY,Protective Order Violation,30
+MAY,Aggravated Robbery Business,26
+MAY,Injury to Elderly Person,26
+MAY,Robbery Individual,24
+MAY,Robbery Business,23
+MAY,Murder,16
+MAY,Indecent Exposure,14
+MAY,Graffiti,12
+MAY,Sexual Assault,11
+MAY,Capital Murder,6
+MAY,Arson,5
+MAY,Kidnapping,5
+MAY,Intoxication Assault,4
+MAY,Stalking,3
+MAY,Aggravated Sexual Assault,2
+MAY,Indecency with a Child,2
+MAY,Manslaughter,2
+MAY,VICE Violation,1
+NOVEMBER,Drug Arrest,3331
+NOVEMBER,TABC-Liquor Law Violation,1937
+NOVEMBER,Larceny,1313
+NOVEMBER,Obstruction of Justice,683
+NOVEMBER,Family Violence,592
+NOVEMBER,Panhandling,356
+NOVEMBER,Trespassing,322
+NOVEMBER,Weapon Violation,265
+NOVEMBER,Traffic Violation,256
+NOVEMBER,Assault,189
+NOVEMBER,Driving While Intoxicated,159
+NOVEMBER,Prostitution,141
+NOVEMBER,Fraud,122
+NOVEMBER,Aggravated Assault,103
+NOVEMBER,Theft of Vehicle,92
+NOVEMBER,Vandalism,91
+NOVEMBER,Aggravated Family Violence,65
+NOVEMBER,Deadly Conduct,59
+NOVEMBER,Unauthorized Use of Motor Vehicle,47
+NOVEMBER,Injury to a Child,46
+NOVEMBER,Burglary Building,45
+NOVEMBER,Burglary Vehicle,44
+NOVEMBER,Threats,41
+NOVEMBER,Burglary Habitation,38
+NOVEMBER,Aggravated Robbery Individual,32
+NOVEMBER,Robbery Individual,27
+NOVEMBER,Protective Order Violation,25
+NOVEMBER,Sexual Assault,23
+NOVEMBER,Indecent Exposure,22
+NOVEMBER,Injury to Elderly Person,21
+NOVEMBER,Aggravated Robbery Business,20
+NOVEMBER,Graffiti,11
+NOVEMBER,Robbery Business,9
+NOVEMBER,Aggravated Sexual Assault,7
+NOVEMBER,Intoxication Assault,7
+NOVEMBER,Arson,5
+NOVEMBER,Indecency with a Child,5
+NOVEMBER,Kidnapping,5
+NOVEMBER,Manslaughter,3
+NOVEMBER,Indecency/Obscenity,2
+NOVEMBER,Stalking,2
+NOVEMBER,Sex Offender Violation,1
+OCTOBER,Drug Arrest,3466
+OCTOBER,TABC-Liquor Law Violation,2171
+OCTOBER,Larceny,1220
+OCTOBER,Obstruction of Justice,730
+OCTOBER,Family Violence,646
+OCTOBER,Trespassing,431
+OCTOBER,Panhandling,363
+OCTOBER,Traffic Violation,297
+OCTOBER,Weapon Violation,261
+OCTOBER,Assault,204
+OCTOBER,Driving While Intoxicated,170
+OCTOBER,Prostitution,170
+OCTOBER,Vandalism,120
+OCTOBER,Fraud,114
+OCTOBER,Aggravated Assault,88
+OCTOBER,Aggravated Family Violence,74
+OCTOBER,Theft of Vehicle,64
+OCTOBER,Threats,53
+OCTOBER,Burglary Building,38
+OCTOBER,Deadly Conduct,37
+OCTOBER,Burglary Vehicle,34
+OCTOBER,Burglary Habitation,31
+OCTOBER,Protective Order Violation,31
+OCTOBER,Unauthorized Use of Motor Vehicle,29
+OCTOBER,Injury to a Child,27
+OCTOBER,Graffiti,19
+OCTOBER,Injury to Elderly Person,19
+OCTOBER,Aggravated Robbery Individual,17
+OCTOBER,Indecent Exposure,16
+OCTOBER,Robbery Business,15
+OCTOBER,Kidnapping,8
+OCTOBER,Arson,6
+OCTOBER,Robbery Individual,6
+OCTOBER,Sexual Assault,6
+OCTOBER,Manslaughter,5
+OCTOBER,VICE Violation,5
+OCTOBER,Indecency with a Child,4
+OCTOBER,Intoxication Assault,4
+OCTOBER,Aggravated Robbery Business,2
+OCTOBER,Aggravated Sexual Assault,2
+OCTOBER,Stalking,1
+SEPTEMBER,Drug Arrest,3267
+SEPTEMBER,TABC-Liquor Law Violation,2562
+SEPTEMBER,Larceny,1217
+SEPTEMBER,Obstruction of Justice,750
+SEPTEMBER,Family Violence,683
+SEPTEMBER,Panhandling,537
+SEPTEMBER,Trespassing,423
+SEPTEMBER,Weapon Violation,329
+SEPTEMBER,Traffic Violation,289
+SEPTEMBER,Assault,213
+SEPTEMBER,Prostitution,184
+SEPTEMBER,Driving While Intoxicated,141
+SEPTEMBER,Aggravated Assault,130
+SEPTEMBER,Vandalism,114
+SEPTEMBER,Fraud,111
+SEPTEMBER,Aggravated Family Violence,74
+SEPTEMBER,Theft of Vehicle,69
+SEPTEMBER,Burglary Vehicle,66
+SEPTEMBER,Deadly Conduct,50
+SEPTEMBER,Threats,49
+SEPTEMBER,Burglary Habitation,48
+SEPTEMBER,Injury to a Child,32
+SEPTEMBER,Unauthorized Use of Motor Vehicle,32
+SEPTEMBER,Robbery Individual,28
+SEPTEMBER,Aggravated Robbery Business,23
+SEPTEMBER,Protective Order Violation,22
+SEPTEMBER,Injury to Elderly Person,21
+SEPTEMBER,VICE Violation,20
+SEPTEMBER,Burglary Building,18
+SEPTEMBER,Aggravated Robbery Individual,16
+SEPTEMBER,Indecent Exposure,15
+SEPTEMBER,Robbery Business,14
+SEPTEMBER,Kidnapping,11
+SEPTEMBER,Sexual Assault,11
+SEPTEMBER,Arson,8
+SEPTEMBER,Graffiti,5
+SEPTEMBER,Indecency with a Child,4
+SEPTEMBER,Aggravated Sexual Assault,3
+SEPTEMBER,Manslaughter,3
+SEPTEMBER,Murder,3
+SEPTEMBER,Intoxication Assault,2
+SEPTEMBER,Indecency/Obscenity,1
+SEPTEMBER,Sex Offender Violation,1
+SEPTEMBER,Stalking,1
