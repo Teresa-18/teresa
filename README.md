@@ -10,6 +10,7 @@ RMS_path = "Downloads/RMS.csv"
 RMS = pd.read_csv(RMS_path)
 print(RMS.head())
 
+<<<<<<< HEAD
 ## MAJOR FINDINGS
 1. Are types of crimes more prevalent in one area of San Antonio versus another?
     Top 10 zip codes for arrests are 78205, 78207, 78201, 78228, 78216, 78223, 78227, 78213, 78210, 78237.
@@ -22,3 +23,17 @@ print(RMS.head())
 3. What age group has the highest amount of offenders and what types of crimes do they commit?
     The age group with the highest arrests were the 20-29 year olds.
 
+=======
+## OVERALL FINDINGS
+1. Are types of crimes more prevalent in one area of San Antonio versus another?
+  Top 10 zip codes for arrests are 78205, 78207, 78201, 78228, 78216, 78223, 78227, 78213, 78210, 78237.
+  
+2. Are there any identifiable crime trends annually or monthly? 
+  There was little to no significant variation in the types of arrests either by month or year. 
+  The drug and alcohol violations are the most prevalent in every month and every year. 
+  
+3. What age group has the highest amount of offenders and what types of crimes do they commit?
+  The age group with the highest arrests were the 20-29 year olds.
+  More 50-59 year old offenders than 17-19 offenders.
+  
+>>>>>>> 3b544cd785b28399c226f5fde1bbf164cf69d50a
